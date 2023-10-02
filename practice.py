@@ -15,5 +15,5 @@ print(numberOfTens)
 changeTen = changeHundred % 10
 
 print("number of ones")
-numberOfOnes = changeTen // 1
+numberOfOnes = (changeTen // 1)
 print(numberOfOnes)
